@@ -5,4 +5,6 @@ Hello, this is puiching memory project team Puiching memory pays attention to th
 No matter what the initial purpose was, we finally came together To be sure, we all have common goals
 In 2022, we hope to move forward
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puiching-Memory&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 Last edit in 2022
