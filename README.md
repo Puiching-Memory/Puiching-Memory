@@ -1,6 +1,6 @@
 Hello, this is the PuiChing Memory project team. PuiChing Memory focuses on the exploration and practice of technology.
 In 2024, I hope we continue to move forward.
-————————————————————————————————————————————————————————
+---
 你好,这里是PuiChing Memory项目组。PuiChing Memory注重技术的探索与实践。
 @梦归云帆是我的个人账号名。（全平台通用）
 
