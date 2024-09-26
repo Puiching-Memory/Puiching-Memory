@@ -9,7 +9,6 @@ In 2024, I hope we continue to move forward.
 2024年,希望我们继续向前。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puiching-Memory&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Puiching-Memory&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Puiching-Memory&bg_color=1e2129&color=bec1c6&line=526cfe&point=bec1c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
