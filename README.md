@@ -13,4 +13,5 @@ In 2024, I hope we continue to move forward.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Puiching-Memory&bg_color=1e2129&color=bec1c6&line=526cfe&point=bec1c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://komarev.com/ghpvc/?username=Puiching-Memory&color=orange)
 Last edit in 2024.09.25
