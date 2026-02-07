@@ -61,7 +61,7 @@
   - 3D Terrain Reconstruction using **COLMAP** + OpenMVS.
   - Open Source: [GitHub](https://github.com/Puiching-Memory/PRfire)
 
-- **FakeBrain (BCI Game Backend)** `2025.03 - 2025.05`
+- **FakeBrain (Unity Game Backend)** `2025.03 - 2025.05`
   - Brain-Computer Interface backend using **C++** & **Qt**.
   - **LSTM** based blink detection deployed via **ONNX Runtime**.
   - Game agent training pipeline with VLM.
