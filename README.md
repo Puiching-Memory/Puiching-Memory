@@ -35,9 +35,16 @@
   <b>Dev & Ops:</b> Docker, Git, ECS, Electron, FastAPI, QT
 </p>
 
+<h3 align="center">🎓 Education</h3>
+<p align="center">
+  <b>Guangdong Polytechnic Normal University (广东技术师范大学)</b><br/>
+  B.E. in Network Engineering (网络工程) | 2023 - 2027<br/>
+  <i>Qualifications: CET-4 | Driving License C2</i>
+</p>
+
 <h3 align="center">💼 Experience</h3>
 
-- **R&D Intern @ Desay SV Automotive (德赛西威)** `2024.07 - 2024.09`
+- **R&D Intern @ Desay SV (德赛西威 002920.SZ)** `2024.07 - 2024.09`
   - Developed traffic sign detection system based on **YOLOv5**, extended for multi-label classification (40+ classes).
   - Built End-to-end Driving Agent using **VLM** with LoRA fine-tuning and automated data pipelines.
   - Implemented 2D/3D Monocular Lane Detection models and MonoDLE based 3D Object Detection.
@@ -69,7 +76,13 @@
 | **Chinese Collegiate Computer Design Contest**        | Provincial 3rd Prize | 2023 |
 | **National Undergraduate Electronics Design Contest** | Provincial 3rd Prize | 2025 |
 | **Lanqiao Cup (Python Track)**                        | Provincial 3rd Prize | 2023 |
-| **SwanLab Community Contributor**                     | Contributor          | -    |
+
+<h3 align="center">🌟 Community</h3>
+
+<p align="center">
+  <b>SwanLab Community Contributor</b><br/>
+  <i>Active Contributor [ 4 commits | 173++ | 142-- | #10 ]</i>
+</p>
 
 <h3 align="center">📄 Publications</h3>
 
