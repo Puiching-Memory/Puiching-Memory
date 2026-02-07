@@ -1,4 +1,8 @@
-Hi,你好，这里是 @梦归云帆
+Hello,你好: 这里是 @梦归云帆
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
