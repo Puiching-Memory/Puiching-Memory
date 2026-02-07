@@ -15,11 +15,6 @@
 
 <br/><br/>
 
-<!-- Pinned Repo -->
-<img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned Repository" />
-
-<br/><br/>
-
 <!-- Profile Summary Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puiching-Memory&theme=github_dark" alt="Profile Details" />
 
