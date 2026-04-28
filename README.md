@@ -1,5 +1,5 @@
 <h1 align="center">Hello, 你好! 👋 这里是 Puiching-Memory</h1>
-<h3 align="center">@梦归云帆</h3>
+<h3 align="center">@梦归云帆: 我最近正在寻找实习机会! 请联系1138663075@qq.com</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Puiching-Memory&color=orange" alt="Visitor Count" />
@@ -28,28 +28,28 @@
 
 <br/>
 
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
+<h3>🛠 Tech Stack</h3>
+<p>
   <b>Languages & Core:</b> Python, C++, Cython<br/>
   <b>AI & Deep Learning:</b> PyTorch, LLM/SD Fine-tuning, Agent Workflow, YOLO, VLM<br/>
   <b>Dev & Ops:</b> Docker, Git, ECS, Electron, FastAPI, QT
 </p>
 
-<h3 align="center">🎓 Education</h3>
-<p align="center">
+<h3>🎓 Education</h3>
+<p>
   <b>Guangdong Polytechnic Normal University (广东技术师范大学)</b><br/>
   B.E. in Network Engineering (网络工程) | 2023 - 2027<br/>
   <i>Qualifications: CET-4 | Driving License C2</i>
 </p>
 
-<h3 align="center">💼 Experience</h3>
+<h3>💼 Experience</h3>
 
 - **R&D Intern @ Desay SV (德赛西威 002920.SZ)** `2024.07 - 2024.09`
   - Developed traffic sign detection system based on **YOLOv5**, extended for multi-label classification (40+ classes).
   - Built End-to-end Driving Agent using **VLM** with LoRA fine-tuning and automated data pipelines.
   - Implemented 2D/3D Monocular Lane Detection models and MonoDLE based 3D Object Detection.
 
-<h3 align="center">🚀 Selected Projects</h3>
+<h3>🚀 Selected Projects</h3>
 
 - **MonoLite** `2024.09 - Present`
   - Monocular 3D Object Detection System with modular architecture.
@@ -67,7 +67,7 @@
   - Game agent training pipeline with VLM.
   - Open Source: [GitHub](https://github.com/Puiching-Memory/fakebrain)
 
-<h3 align="center">🏆 Honors & Awards</h3>
+<h3>🏆 Honors & Awards</h3>
 
 | Award                                                 | Rank/Level           | Year |
 | :---------------------------------------------------- | :------------------- | :--- |
@@ -77,14 +77,14 @@
 | **National Undergraduate Electronics Design Contest** | Provincial 3rd Prize | 2025 |
 | **Lanqiao Cup (Python Track)**                        | Provincial 3rd Prize | 2023 |
 
-<h3 align="center">🌟 Community</h3>
+<h3>🌟 Community</h3>
 
-<p align="center">
+<p>
   <b>SwanLab Community Contributor</b><br/>
   <i>Active Contributor [ 4 commits | 173++ | 142-- | #10 ]</i>
 </p>
 
-<h3 align="center">📄 Publications</h3>
+<h3>📄 Publications</h3>
 
 - **Zhang Kai**, et al. (2025). *Research on Narrowband Satellite IoT Video Transmission Technology Based on an Optimized AVS3 Model*. IEEE IoTAAI Conference. (4th Author)
 
@@ -92,4 +92,4 @@
 
 <hr>
 
-<p align="center">Last edit in 2026.02.08</p>
+<p>Last edit in 2026.04.29</p>
