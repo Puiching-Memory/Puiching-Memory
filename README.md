@@ -9,20 +9,11 @@
 
 <div align="center">
 
+[![GitHub Roast](https://githubroast.dev/api/card/puiching-memory?theme=dark)](https://githubroast.dev/u/puiching-memory)
+
 <!-- GitHub Stats & Top Langs 並排 -->
 <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
 <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Profile Summary Cards -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puiching-Memory&theme=github_dark" alt="Profile Details" />
-
-<br/>
-
-<!-- Language Analysis 並排 -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Puiching-Memory&theme=github_dark&exclude=" alt="Repos per Language" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Puiching-Memory&theme=github_dark&exclude=" alt="Most Commit Language" />
 
 </div>
 
@@ -92,4 +83,4 @@
 
 <hr>
 
-<p>Last edit in 2026.04.29</p>
+<p>Last edit in 2026.07.01</p>
