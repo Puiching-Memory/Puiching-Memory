@@ -9,11 +9,7 @@
 
 <div align="center">
 
-<p align="center">
-  <a href="https://ghfind.com/u/puiching-memory?ref=badge">
-    <img src="https://ghfind.com/api/card/puiching-memory?theme=dark&qr=1" alt="GitHub Roast" height="240"/>
-  </a>
-</p>
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/puiching-memory?variant=radar)](https://ghfind.com/u/puiching-memory?ref=badge)
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Puiching-Memory&show_icons=true&theme=transparent" alt="GitHub Stats" height="170"/>
